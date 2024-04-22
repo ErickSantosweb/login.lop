@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+
+
+body{
+    font-family: 'poppins';
+    background-color: #192959 ;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    color: #5677db;
+}
+
+.cadastro{
+    text-align: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+input:focus{
+    outline: none;
+}
+
+#n input{
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 40px;
+    padding-left: 15px;
+    background-color: #1e1c2e;
+    color: #b6b6b6;
+    margin-bottom: 15px;
+}
+
+#e input{
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 40px;
+    padding-left: 15px;
+    background-color: #1e1c2e;
+    color: #b6b6b6;
+}
+
+#s input {
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 40px;
+    padding-left: 15px;
+    background-color: #1e1c2e;
+    color: #b6b6b6;
+    margin-top: 15px;
+}
+
+#c input {
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 40px;
+    padding-left: 15px;
+    background-color: #1e1c2e;
+    color: #b6b6b6;
+    margin-top: 15px;
+}
+
+
+#entrar input {
+    cursor: pointer;
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: #2D4BA6;
+    color: white;
+}
+
+
+input::placeholder {
+    color: #b6b6b6;
+}
+
+h1 {
+    color: #FAFAFA;
+}
+
+img{
+    width: 115px;
+}

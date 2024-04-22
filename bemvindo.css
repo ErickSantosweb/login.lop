@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+
+
+body{
+    font-family: 'poppins';
+    background-color: #192959 ;
+    color: #fff;
+}
+
+.cadastro{
+    text-align: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+h1 {
+    color: #FAFAFA;
+}
+
+img{
+    width: 115px;
+}
